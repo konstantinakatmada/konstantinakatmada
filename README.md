@@ -9,5 +9,4 @@
 - 💬 Ask me about: Anything related to Legaltech and FinTech. Drop your knowledge on these...don't worry, you are not going to bore me (trained as Lawyer).
 - 📫 How to reach me: https://www.linkedin.com/in/konstantinakatmada/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Notes 🎶 were the first language I learnt before I learnt to read and write. Many people consider 🎼 to be a programming language. I am of the same opinion, and so I believe I fully understood a programming language before I was able to fully understand my native "human" language.
-
+- ⚡ Fun fact: Notes 🎶 were the first language I learned before I learned to read and write. Many people consider 🎼 to be a programming language. I am of the same opinion, which means I believe I understood a programming language before I was able to fully understand my native "human" language.
