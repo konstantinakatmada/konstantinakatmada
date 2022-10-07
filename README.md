@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently 
+- 🔭 I’m currently doing the Founders and Coders bootcamp (Space4, London).
 - 🌱 I’m currently learning building websites without third-party libraries.
 - 👯 I’m looking to collaborate on all kinds of projects- more interested in the journey than the destination 
 - 🤔 I’m looking for help with Execute Program Quizzes.Some of them can be pretty daunting for me.
