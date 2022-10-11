@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-
-
+- 30 seconds to go:
+-
+-
 - 🔭 I’m currently doing the Founders and Coders bootcamp (Space4, London).
 - 🌱 I’m currently learning building websites without third-party libraries.
 - 👯 I’m looking to collaborate on all kinds of projects- more interested in the journey than the destination 
