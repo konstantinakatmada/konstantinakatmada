@@ -10,3 +10,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/konstantinakatmada/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Notes 🎶 were the first language I learned before I learned to read and write. Many people consider 🎼 to be a programming language. I am of the same opinion, which means I believe I understood a programming language before I was able to fully understand my native "human" language.
+ -  My last certificate/ degree: a Postgraduate Certificate in Laws (Banking and finance law)	from the University of London, where I am attending Postgraduate Laws
