@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤝 I am Konstantina. Welcome to my Github profile! 😄 Pronouns: she/her
+- 🤝 I am Konstantina. Welcome to my Github profile!😄 Pronouns: she/her
 - 🔭 I’m currently doing the Founders and Coders web development bootcamp in London (cohort 26).
 - 🌱 I practice building websites without using third-party libraries.
 - 👯 I’m looking to collaborate on all kinds of projects. At the moment, the journey (coding) amazes me more than the destination.
