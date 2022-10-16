@@ -6,10 +6,13 @@
 - 🤔 I’m looking for help with some functions in JavaScript.
 - 💬 Ask me about: Anything related to Legaltech and FinTech. Drop your knowledge on these...don't worry, you are not going to bore me (trained as Lawyer).
 - 📫 How to reach me: https://www.linkedin.com/in/konstantinakatmada/
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/konstantinakatmada/)
-](https://www.linkedin.com/in/konstantinakatmad)]
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/konstantinakatmada/])
 - ⚡ Fun fact: Notes 🎶 were the first language I learned before I learned to read and write. Many people consider 🎼 to be a programming language. I am of the same opinion, which means I believe I understood a programming language before I was able to fully understand my native "human" language.
  - ⚖️ My last reason to be pat myself at the back for once and stop being so self-critical: a certification ("Postgraduate Certificate in Laws in Banking and Finance law")	from the University of London
 - 
+-
+-
+-
+-
 -
 -
